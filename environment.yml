@@ -1,0 +1,9 @@
+name: my_binder_environment
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - ipython=7.26.0
+  - ipywidgets=7.6.5
+  - statsmodels=0.12.2
+  - numpy=1.21.2
