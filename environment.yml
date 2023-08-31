@@ -7,3 +7,4 @@ dependencies:
   - ipywidgets=7.6.5
   - statsmodels=0.12.2
   - numpy=1.21.2
+  - voila = 0.5.1
