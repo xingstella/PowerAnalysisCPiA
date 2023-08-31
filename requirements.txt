@@ -8,7 +8,7 @@
 #anaconda-catalogs @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_737qok84ed/croot/anaconda-catalogs_1685727302903/work
 anaconda-client==1.12.0
 anaconda-navigator==2.4.2
-anaconda-project @ file:///Users/ec2-user/ci_py311/anaconda-project_1678395481364/work
+#anaconda-project @ file:///Users/ec2-user/ci_py311/anaconda-project_1678395481364/work
 anyio @ file:///Users/ec2-user/ci_py311/anyio_1678317412955/work/dist
 appdirs==1.4.4
 applaunchservices @ file:///Users/ec2-user/ci_py311/applaunchservices_1678390181983/work
